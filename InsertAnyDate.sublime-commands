@@ -4,5 +4,5 @@
     "command": "insert_any_date_prompt"
   },
 
-  { "caption": "InsertAnyDate: Current", "command": "insert_any_date_current" }
+  { "caption": "InsertAnyDate: Today", "command": "insert_any_date" }
 ]

@@ -12,7 +12,7 @@
                 "caption": "Settings",
                 "command": "edit_settings",
                 "args": {
-                  "base_file": "${packages}/sublime-InsertAnyDate/insert_any_date.sublime-settings",
+                  "base_file": "${packages}/InsertAnyDate/insert_any_date.sublime-settings",
                   "default": "{\n\t$0\n}\n"
                 }
               }
